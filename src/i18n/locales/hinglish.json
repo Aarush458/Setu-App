@@ -1,0 +1,85 @@
+{
+    "nav": {
+        "home": "Home",
+        "submit": "Problem report karein",
+        "track": "Meri reports dekhein",
+        "dashboard": "Dashboard",
+        "login": "Login",
+        "signup": "Sign up",
+        "logout": "Logout"
+    },
+    "landing": {
+        "title": "Aapki problem aur solution ke beech ek setu",
+        "subtitle": "Setu aapke aas-paas ki roz ki problems ko un universities aur experts se jodta hai jo unhe solve kar sakte hain — report se resolution tak, poori tarah transparent.",
+        "cta_primary": "Problem report karein",
+        "cta_secondary": "Jaanein kaise kaam karta hai",
+        "how_it_works": "Ye kaise kaam karta hai",
+        "step1_title": "Aap report karte hain",
+        "step1_body": "Problem batayein, photo add karein, location mark karein.",
+        "step2_title": "Ye categorize hoti hai",
+        "step2_body": "Setu report ko padhkar sahi university department tak bhejta hai.",
+        "step3_title": "Experts kaam shuru karte hain",
+        "step3_body": "Faculty aur students team banakar solution pe kaam karte hain.",
+        "step4_title": "Aap progress dekhein",
+        "step4_body": "Kabhi bhi status track karein — submit se resolve tak."
+    },
+    "auth": {
+        "login_title": "Wapas swagat hai",
+        "signup_title": "Apna account banayein",
+        "email": "Email",
+        "password": "Password",
+        "full_name": "Poora naam",
+        "role": "Main hoon",
+        "role_citizen": "Nagrik",
+        "role_university": "University representative",
+        "submit_login": "Login karein",
+        "submit_signup": "Account banayein",
+        "no_account": "Account nahi hai?",
+        "have_account": "Pehle se account hai?",
+        "error_generic": "Kuch galat ho gaya. Details check karke phir try karein.",
+        "select_university_label": "Aapki university",
+        "select_university": "Please apni university select karein.",
+        "no_universities": "Abhi tak koi university register nahi hui. Admin se contact karein."
+    },
+    "submit": {
+        "title": "Problem report karein",
+        "field_title": "Title",
+        "field_title_placeholder": "Jaise: School ke paas handpump kharab hai",
+        "field_description": "Description",
+        "field_description_placeholder": "Problem kya hai? Kab se hai? Kise affect karti hai?",
+        "field_location": "Location",
+        "field_location_placeholder": "Gaon, block, ya district",
+        "field_media": "Photo add karein (optional)",
+        "submit_button": "Report bhejein",
+        "submitting": "Bheja ja raha hai…",
+        "success": "Aapki report submit ho gayi hai. Progress Track page pe dekhein."
+    },
+    "track": {
+        "title": "Meri reports",
+        "empty": "Aapne abhi tak koi report submit nahi ki hai.",
+        "status_submitted": "Submitted",
+        "status_assigned": "Assigned",
+        "status_in_progress": "Progress mein",
+        "status_resolved": "Resolved",
+        "category": "Category",
+        "assigned_to": "Assigned to"
+    },
+    "dashboard": {
+        "university_title": "Assigned problems",
+        "university_empty": "Abhi tak aapke institution ko koi problem assign nahi hui.",
+        "industry_title": "Open problems",
+        "industry_note": "Industry aur CSR collaboration jald aa raha hai. Filhaal universities dwara solve ki ja rahi problems dekhein.",
+        "update_status": "Status update karein",
+        "add_note": "Note add karein",
+        "note_placeholder": "Latest update kya hai?",
+        "save": "Save karein"
+    },
+    "common": {
+        "loading": "Load ho raha hai…",
+        "back_home": "Home pe wapas jayein"
+    },
+    "not_found": {
+        "title": "Ye page exist nahi karta",
+        "body": "Link kharab ho sakta hai, ya page move ho gaya ho sakta hai. Chaliye aapko wapas sahi raaste pe le chalte hain."
+    }
+}

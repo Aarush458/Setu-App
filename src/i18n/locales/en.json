@@ -1,0 +1,85 @@
+{
+    "nav": {
+        "home": "Home",
+        "submit": "Report a problem",
+        "track": "Track my reports",
+        "dashboard": "Dashboard",
+        "login": "Log in",
+        "signup": "Sign up",
+        "logout": "Log out"
+    },
+    "landing": {
+        "title": "A bridge between your street and a solution",
+        "subtitle": "Setu connects the problems you see every day with the universities and experts who can help fix them — tracked openly, from report to resolution.",
+        "cta_primary": "Report a problem",
+        "cta_secondary": "See how it works",
+        "how_it_works": "How it works",
+        "step1_title": "You report it",
+        "step1_body": "Describe the issue, add a photo, mark the location.",
+        "step2_title": "It gets sorted",
+        "step2_body": "Setu reads the report and routes it to the right university department.",
+        "step3_title": "Experts take it on",
+        "step3_body": "Faculty and students review it, form a team, and work toward a fix.",
+        "step4_title": "You see the progress",
+        "step4_body": "Track the status from submitted to resolved, at any time."
+    },
+    "auth": {
+        "login_title": "Welcome back",
+        "signup_title": "Create your account",
+        "email": "Email",
+        "password": "Password",
+        "full_name": "Full name",
+        "role": "I am a",
+        "role_citizen": "Citizen",
+        "role_university": "University representative",
+        "submit_login": "Log in",
+        "submit_signup": "Create account",
+        "no_account": "Don't have an account?",
+        "have_account": "Already have an account?",
+        "error_generic": "Something went wrong. Please check your details and try again.",
+        "select_university_label": "Your university",
+        "select_university": "Please select your university.",
+        "no_universities": "No universities are registered yet. Contact an admin."
+    },
+    "submit": {
+        "title": "Report a problem",
+        "field_title": "Title",
+        "field_title_placeholder": "e.g. Broken handpump near the school",
+        "field_description": "Description",
+        "field_description_placeholder": "What's the issue? When did it start? Who does it affect?",
+        "field_location": "Location",
+        "field_location_placeholder": "Village, block, or district",
+        "field_media": "Add a photo (optional)",
+        "submit_button": "Submit report",
+        "submitting": "Submitting…",
+        "success": "Your report has been submitted. You can track its progress on the Track page."
+    },
+    "track": {
+        "title": "My reports",
+        "empty": "You haven't submitted any reports yet.",
+        "status_submitted": "Submitted",
+        "status_assigned": "Assigned",
+        "status_in_progress": "In progress",
+        "status_resolved": "Resolved",
+        "category": "Category",
+        "assigned_to": "Assigned to"
+    },
+    "dashboard": {
+        "university_title": "Assigned problems",
+        "university_empty": "No problems assigned to your institution yet.",
+        "industry_title": "Open problems",
+        "industry_note": "Industry and CSR collaboration tools are coming soon. For now, browse problems that universities are working on.",
+        "update_status": "Update status",
+        "add_note": "Add a note",
+        "note_placeholder": "What's the latest update?",
+        "save": "Save"
+    },
+    "common": {
+        "loading": "Loading…",
+        "back_home": "Back to home"
+    },
+    "not_found": {
+        "title": "This page doesn't exist",
+        "body": "The link may be broken, or the page may have moved. Let's get you back on track."
+    }
+}
